@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<voice-interaction-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:sessionService="org.sakethmetta.foassist.SessionService"
+    android:recognitionService="org.sakethmetta.foassist.StubRecognitionService"
+    android:settingsActivity="org.sakethmetta.foassist.SettingsActivity"
+    android:supportsAssist="true"
+    android:supportsLaunchVoiceAssistFromKeyguard="false" />

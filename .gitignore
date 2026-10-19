@@ -1,0 +1,6 @@
+# signing key: keep it, back it up, never commit it (losing it means uninstalling to update)
+*.jks
+*.keystore
+build/
+local.properties
+bridge.url

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Wajo's near-black, so the white Fo pops like on their card -->
+    <color name="ic_fo_background">#0A0A0A</color>
+</resources>
