@@ -3,6 +3,8 @@
 Android client for Fo (Wajo). Plain-Java `VoiceInteractionService` that sets itself as the phone's
 assistant and sends requests to an fo-bridge server, which relays them to Fo and pushes replies back over ntfy.
 
+Built over a weekend for Wajo's GSD virtual hackathon (October 17-19, 2026), on early access to the Fo MCP server.
+
 Features: assist-gesture voice/screenshot requests, Wajo sign-in per device, floating "bird" chat head for
 Fo notifications, busy-call auto-reply by SMS.
 
